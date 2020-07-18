@@ -1,0 +1,7 @@
+Django==3.0.8
+
+django-model-utils==4.0.0
+djangorestframework==3.11.0
+
+python-decouple==3.3
+sendgrid==6.4.3
