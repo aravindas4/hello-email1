@@ -1,6 +1,6 @@
 # Hello Email
 
-### Build status 
+### Technology 
 
 * Python (Django)
 * SQLite 
