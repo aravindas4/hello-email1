@@ -29,6 +29,7 @@ This repository contains 2 groups of API
     ```
     {
       "email": "ara@example.com"
-    }```
+    }
+    ```
 
   
