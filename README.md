@@ -23,9 +23,9 @@ This repository contains 2 groups of API
 
 ## Test
 - In postman/ any other equivalent tool: hit
-  1.GET  http://127.0.0.1:8000/category/list/  
-  2.GET http://127.0.0.1:8000/email/ - last 10 emails
-  3.POST http://127.0.0.1:8000/email/  - body 
+   * GET  http://127.0.0.1:8000/category/list/  
+   * GET http://127.0.0.1:8000/email/ - last 10 emails
+   * POST http://127.0.0.1:8000/email/  - body 
     ```
     {
       "email": "ara@example.com"
